@@ -1,0 +1,962 @@
+:: StoryTitle
+пк
+
+
+:: StoryData
+{
+  "ifid": "E551CD0F-72A5-446F-A417-6CDF77FABC6E",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "start",
+  "zoom": 0.3
+}
+
+
+:: soft {"position":"675,700","size":"100,100"}
+<a href="https://redos.red-soft.ru" target="_blank">
+  <img src="https://sun9-44.userapi.com/impg/fnx1YTSMJ9DEt6Muu6xcx4Ll5hqSm1tU5YIrVQ/BcxDlYviBP4.jpg?size=1850x934&quality=95&sign=b9ca929a13650f90570ef626a2254b80&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[в обоих случаях у нас на компьютерах будет стоять операционая система redOS, так как она прописана в приложеном excel документу
+[[back рабочий|рабочий]]
+[[back самый дешевый |самый дешевый]]]
+</div>
+
+
+:: start {"position":"500,200","size":"100,100"}
+<div class="transparent-box">
+(text-colour:black)[Добрый день! Как вы хотите собирать компьютер?
+[[узнать характеристики текущего пк]]
+[[собрать новый пк]]]
+</div>
+
+
+:: Видеокарта {"position":"1250,775","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/e6230a6fe4d4ed20/videokarta-asrock-radeon-rx-6400-challenger-itx-rx6400-cli-4g/" target="_blank">
+  <img src="https://sun9-76.userapi.com/impg/weEEjwb52sm6VFbfut2nEdezhOKJ_MTugLXCCQ/ULPDRmpES9w.jpg?size=1421x586&quality=95&sign=b884d8ce8a2d8d17ff047fad98f1ff6b&type=album", height='400' alt="Видеокарта">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель ASRock Radeon RX 6400 Challenger ITX
+Графический процессор  Radeon RX 6400
+Микроархитектура  AMD RDNA 2
+Техпроцесс 6 нм
+Штатная частота работы видеочипа  1923 МГц
+Турбочастота 2321 МГц
+Количество универсальных процессоров (ALU)  768
+Число текстурных блоков  48
+Число блоков растеризации 32
+Поддержка трассировки лучей  есть
+Аппаратное ускорение трассировки лучей (RT-ядра)  12
+Объем видеопамяти 4 ГБ
+Тип памяти GDDR6
+Разрядность шины памяти  64 бит
+Максимальная пропускная способность памяти  128 Гбайт/сек
+Эффективная частота памяти 16000 МГц
+Рекомендуемый блок питания  350 Вт
+Тип охлаждения активное воздушное
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: Внешняя звуковая карта {"position":"1250,1275","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/1839fee2235e3330/vnesnaa-zvukovaa-karta-dexp-3d-cm108-ver2/" target="_blank">
+  <img src="https://sun9-5.userapi.com/impg/lHuHdSzyNcNYYWIUF5iOM3qa2vbhotp7nlxX0w/R2J1ohj3MQU.jpg?size=1411x612&quality=95&sign=445168f544904339b56b33f7e95a2b07&type=album", height='400' alt="Внешняя звуковая карта">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель DEXP 3D CM108 Ver.2
+Формат звуковой карты 2.0
+Технологии Microsoft DirectSound 3D
+Модели ЦАП  интегрирован в чипсет
+Разрядность ЦАП  16 бит
+Максимальная частота ЦАП  48 кГц
+Отношение сигнал / шум при воспроизведении 100 дБ
+Встроенный усилитель для наушников  нет
+Комплектация диск с ПО, документация
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: Внешняя звуковая карта2 {"position":"500,925","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/1839fee2235e3330/vnesnaa-zvukovaa-karta-dexp-3d-cm108-ver2/" target="_blank">
+  <img src="https://sun9-5.userapi.com/impg/lHuHdSzyNcNYYWIUF5iOM3qa2vbhotp7nlxX0w/R2J1ohj3MQU.jpg?size=1411x612&quality=95&sign=445168f544904339b56b33f7e95a2b07&type=album", height='400' alt="Внешняя звуковая карта">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель DEXP 3D CM108 Ver.2
+Формат звуковой карты 2.0
+Технологии Microsoft DirectSound 3D
+Модели ЦАП  интегрирован в чипсет
+Разрядность ЦАП  16 бит
+Максимальная частота ЦАП  48 кГц
+Отношение сигнал / шум при воспроизведении 100 дБ
+Встроенный усилитель для наушников  нет
+Комплектация диск с ПО, документация
+[[обратно|рабочий]]]
+</div>
+
+
+:: Накопитель {"position":"700,1400","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/22190260a055ed20/512-gb-25-sata-nakopitel-dexp-c100-c100smym512/" target="_blank">
+  <img src="https://sun9-29.userapi.com/impg/u-otEjZEpv47bOZXQi_6_DH9S5-Lpt8KhfHr2A/4qg4oR0qCJQ.jpg?size=1428x617&quality=95&sign=06eccfb3b0e7ebd8552fcc9c633e7f86&type=album", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Тип  2.5" SATA накопитель
+Модель DEXP C100
+Объем накопителя  512 ГБ
+Контроллер  SMI2259XT2
+Максимальная скорость последовательного чтения  550 Мбайт/сек
+Максимальная скорость последовательной записи  495 Мбайт/сек
+Скорость произвольного чтения 4 Кб файлов (QD32) 60000 IOPS
+Скорость произвольной записи 4 Кб файлов (QD32) 60000 IOPS
+Максимальный ресурс записи (TBW)  240 ТБ
+Ширина 69.8 мм
+Длина 99.7 мм
+Толщина 7 мм
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: блок питания {"position":"1250,975","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/f5743d04b605d21a/blok-pitania-digma-dpsu-350w--cernyj/" target="_blank">
+  <img src="https://sun9-30.userapi.com/impg/8yanaD-pdsXSKVLdqp0Tq0M3Fkxc_2gMESS56A/AJxbOaN8tKs.jpg?size=1395x570&quality=95&sign=fa2674ddb4fbd90cea338454b437c461&type=album", height='400' alt="Блок питания">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Мощность: 350 Вт. 
+Диапазон входного напряжения сети 180-240 В 50/60 Гц
+Длина кабеля питания процессора 400 мм
+Модель Digma DPSU-350W
+Система охлаждения активная
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: блок питания1 {"position":"1850,700","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/cae28e6d5e84ed20/blok-pitania-ardor-gaming-origin-750wgf-white--belyj/" target="_blank">
+  <img src="https://sun9-77.userapi.com/impg/MVcZX-fPHtLjMk-Ppf66L-r-sypCz1sGj3Lo6Q/gB2dILZqs-E.jpg?size=1612x633&quality=95&sign=33791b2df61591438c70399c7832a838&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Блок питания ARDOR GAMING ORIGIN 750WGF White в стандартном корпусе белого цвета устанавливается в большие и средние системные блоки ПК. Он обеспечивает подачу мощности на уровне 750 Вт. Это позволит использовать его для питания игровых и рабочих ПК с высокой нагрузкой. Модульная конструкция блока предусматривает отключение ненужных кабелей для освобождения пространства внутри корпуса. Кабели для подключения питания процессора, видеокарты, накопителей имеются в комплекте с блоком.
+Активная система охлаждения обеспечивает стабильную работу блока питания ARDOR GAMING ORIGIN 750WGF White под нагрузкой. Она представлена 120-мм вентилятором с автоматической регулировкой скорости вращения. На эффективность блока питания указывает сертификат 80 PLUS Gold. Он предполагает КПД на уровне 93%, низкую потерю электроэнергии и защиту устройства от короткого замыкания, перегрева, перенапряжения и скачков тока. Для правильного монтажа блока предусмотрен крепежный комплект.
+[[back|рекламный]]]
+</div>
+
+
+:: блок питания2 {"position":"100,925","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/f5743d04b605d21a/blok-pitania-digma-dpsu-350w--cernyj/" target="_blank">
+  <img src="https://sun9-30.userapi.com/impg/8yanaD-pdsXSKVLdqp0Tq0M3Fkxc_2gMESS56A/AJxbOaN8tKs.jpg?size=1395x570&quality=95&sign=fa2674ddb4fbd90cea338454b437c461&type=album", height='400' alt="Блок питания">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Мощность: 350 Вт. 
+Диапазон входного напряжения сети 180-240 В 50/60 Гц
+Длина кабеля питания процессора 400 мм
+Модель Digma DPSU-350W
+Система охлаждения активная
+[[обратно|рабочий]]]
+</div>
+
+
+:: видеокарта1 {"position":"1175,400","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/7f1a9ae25773ed20/videokarta-inno3d-geforce-gtx-1650-twin-x2-oc-v3-n16502-04d6x-171330n/" target="_blank">
+  <img src="https://sun9-6.userapi.com/impg/x41GVhyVYd093SdrC_AFQaLAryd3MzfcmuY4iw/A9C4IRIhuDc.jpg?size=1530x624&quality=95&sign=6d1121241c9a0697342958c9e105158e&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Видеокарта INNO3D GeForce GTX 1650 TWIN X2 OC V3 [N16502-04D6X-171330N] ориентирована на сборку и модернизацию игровых компьютеров начального уровня. Она оснащена энергоэффективным графическим процессором GeForce GTX 1650 на основе микроархитектуры NVIDIA Turing. Штатная частота GPU равна 1485 МГц, а турбочастота – 1635 МГц. Потенциал видеочипа реализует 4-гигабайтная память GDDR6 с пропускной способностью 192 ГБ/с. 896 универсальных процессоров поддерживают высокую частоту кадров.
+Видеокарта INNO3D GeForce GTX 1650 TWIN X2 OC V3 [N16502-04D6X-171330N] поддерживается операционными системами Windows 10 и Windows 11. Устройство нуждается в дополнительном питании от разъема 8-pin. Максимальное энергопотребление видеоадаптера составляет 90 Вт. Вам потребуется блок питания с мощностью от 300 Вт.
+Преимуществом видеокарты является поддержка разрешения 7680x4320 (8K Ultra HD). Модель оснащена 4 видеовыходами – HDMI и 3 DisplayPort. Возможно одновременное подключение до 4 мониторов. Длина видеоадаптера равна 220 мм. Показатель позволяет использовать компактный корпус.
+[[back|рекламный]]]
+</div>
+
+
+:: жесткий диск1 {"position":"1900,550","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/1b4bb86e29d0ed20/2-tb-zestkij-disk-toshiba-dt02-dt02aca200/" target="_blank">
+  <img src="https://sun9-55.userapi.com/impg/qZ9x1gz6q4jcpX3oWKPKADwz2raVHFfN-Y0zXA/mzC5CkeLw60.jpg?size=1514x687&quality=95&sign=cd8553364c5d75b7cf5d054942ac685b&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Жесткий диск Toshiba DT02 [DT02ACA200] форм-фактора 3.5 дюйма предназначен для установки в стационарные настольные компьютеры, моноблоки и внешние системы хранения. Благодаря объему 2 ТБ он обеспечивает размещение документов, программ, мультимедийного контента. Технология магнитной записи Drive-Managed SMR гарантирует производительность обработки информации, а также стабильность хранения и целостность файлов. Накопитель Toshiba DT02 [DT02ACA200] подключается по интерфейсу SATA III с пропускной способностью 6 Гбит/с.
+[[back|рекламный]]
+
+
+:: заказать готовый {"position":"575,0","size":"100,100"}
+<a href="https://www.ozon.ru/product/lenovo-sistemnyy-blok-thinkcentre-m79-amd-pro-a8-8650b-ram-16-gb-ssd-240-gb-amd-radeon-r7-windows-10-1590382207/?asb2=xvJ3Hn3jMgdspwy-3UxpSgu51JOzaqnnhhEqE6bQbmFtJBNuwZ4RsH3phFoFPZFSK7ECKiPcyRsXkx1BJU7GMRqQOwf8dq8fPhQNPVr9yO0&from_sku=1644248201&oos_search=false" target="_blank">
+  <img src="https://sun9-25.userapi.com/impg/q7Rt1PoPwsoIrCydfjtUJMqBTH6nKoAQedcuwA/UMklX7XE5Nk.jpg?size=1599x658&quality=95&sign=24c52e1121b307f86800fc312be8f150&type=album", height='400' alt="Описание картинки">
+</a>
+<a href="https://www.ozon.ru/product/crystalstorm-19-monitor-cs-pro-dlya-pk-chernyy-matovyy-1754375509/?asb=CqSaDXBkV334%252BduM83Jz6V9jP6pYuqBE1ykwTnQcE54%253D&asb2=5WIHGxdbQKQ0iFf0jlquMO36Iphqk5mI72t403a7ydJjirAwFgVxqFJkZqPp8wdZ6GA5IRiiCjDDAV1Hz2ui7A&avtc=1&avte=4&avts=1735317449&keywords=монитор" target="_blank">
+  <img src="https://sun9-10.userapi.com/impg/-f-kWrkB90-svAZ263lOsEZToAGJuOho-w_BjA/emm565f_InQ.jpg?size=1567x684&quality=95&sign=a6ca78be61f6a338197f01f06385fa15&type=album", height='400' alt="Монитор">
+</a>
+<div class="transparent-box">
+(text-colour:black)[Вы решили пойти по легкому пути и заказать готовый компьютер из магазина. Этот компьютер является базовым по excel файлу который прилогался. Характеристики данного компьютера предоставлены на скриншот]
+
+[[обратно|start]]
+</div>
+
+
+:: клавиатура {"position":"1050,1250","size":"100,100"}
+<a href="https://www.ozon.ru/product/defender-igrovaya-klaviatura-membrannaya-provodnaya-spark-full-size-265088316/?asb=jiysz5gckH4%252B9eUHMmbPgs5r8n9oKijJuEjWB39h2ME%253D&asb2=I_Lwj9lEEYVfiJ1RxQMz1YDNd5itLiaCYM0vpq5YzM1-2CChytQd1B8RjRiFSNfLDP974qu4wHRr4lUXDYCPdg&avtc=1&avte=4&avts=1735317499&keywords=клавиатура" target="_blank">
+  <img src="https://sun9-77.userapi.com/impg/rCz4OvJSBBiMEwJFUwtQ6Fb0QuxEoDFJ2cNcrw/ahcB2zBslDw.jpg?size=1626x601&quality=95&sign=08b93fe4cb6d69e7c7a42550c032f89f&type=album", height='400' alt="Клавиатура">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Тип: мембранная. 
+Подключение: проводное. 
+Интерфейс подключения: USB. 
+Общее количество клавиш: 104, включая цифровой блок.  
+Влагозащита
+Длина кабеля: 1,5 м. 
+Вес: 400 г. 
+Цвет корпуса: чёрный. 
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: клавиатура1 {"position":"1575,1100","size":"100,100"}
+<a href="https://www.ozon.ru/product/defender-igrovaya-klaviatura-membrannaya-provodnaya-spark-full-size-265088316/?asb=jiysz5gckH4%252B9eUHMmbPgs5r8n9oKijJuEjWB39h2ME%253D&asb2=I_Lwj9lEEYVfiJ1RxQMz1YDNd5itLiaCYM0vpq5YzM1-2CChytQd1B8RjRiFSNfLDP974qu4wHRr4lUXDYCPdg&avtc=1&avte=4&avts=1735317499&keywords=клавиатура" target="_blank">
+  <img src="https://sun9-77.userapi.com/impg/rCz4OvJSBBiMEwJFUwtQ6Fb0QuxEoDFJ2cNcrw/ahcB2zBslDw.jpg?size=1626x601&quality=95&sign=08b93fe4cb6d69e7c7a42550c032f89f&type=album", height='400' alt="Клавиатура">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Тип: мембранная. 
+Подключение: проводное. 
+Интерфейс подключения: USB. 
+Общее количество клавиш: 104, включая цифровой блок.  
+Влагозащита
+Длина кабеля: 1,5 м. 
+Вес: 400 г. 
+Цвет корпуса: чёрный. 
+[[обратно|рекламный]]]
+</div>
+
+
+:: клавиатура2 {"position":"150,500","size":"100,100"}
+<a href="https://www.ozon.ru/product/defender-igrovaya-klaviatura-membrannaya-provodnaya-spark-full-size-265088316/?asb=jiysz5gckH4%252B9eUHMmbPgs5r8n9oKijJuEjWB39h2ME%253D&asb2=I_Lwj9lEEYVfiJ1RxQMz1YDNd5itLiaCYM0vpq5YzM1-2CChytQd1B8RjRiFSNfLDP974qu4wHRr4lUXDYCPdg&avtc=1&avte=4&avts=1735317499&keywords=клавиатура" target="_blank">
+  <img src="https://sun9-77.userapi.com/impg/rCz4OvJSBBiMEwJFUwtQ6Fb0QuxEoDFJ2cNcrw/ahcB2zBslDw.jpg?size=1626x601&quality=95&sign=08b93fe4cb6d69e7c7a42550c032f89f&type=album", height='400' alt="Клавиатура">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Тип: мембранная. 
+Подключение: проводное. 
+Интерфейс подключения: USB. 
+Общее количество клавиш: 104, включая цифровой блок.  
+Влагозащита
+Длина кабеля: 1,5 м. 
+Вес: 400 г. 
+Цвет корпуса: чёрный. 
+[[обратно|рабочий]]]
+</div>
+
+
+:: коврик для мышки {"position":"1625,200","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/a176b894a748ed20/kovrik-lamzu-energon--cernyj/" target="_blank">
+  <img src="https://sun9-78.userapi.com/impg/SQy66TFK_2EWrZG_KptL1lrlqCulrmrvzIjR2Q/sxwfmfVMOR8.jpg?size=1467x487&quality=95&sign=da101998d8254bddca6c6ced4fcbe995&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Коврик Lamzu Energon с покрытием speed позволяет быстро и точно обрабатывать каждое движение мыши в динамичных компьютерных играх и при работе в программах. Он изготовлен из нейлона, что гарантирует легкое скольжение и точное управление. Материал отличается эластичностью, прочностью и приятными тактильными свойствами. Коврик Lamzu Energon обладает размерами 480x410 мм и толщиной 4 мм. 
+[[back|рекламный]]]
+</div>
+
+
+:: корпус {"position":"925,1400","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/331b176a304b3332/korpus-zalman-t8-t8-cernyj/" target="_blank">
+  <img src="https://sun9-70.userapi.com/impg/hvEUHDMWWOKcYgPVYZlday1_t6bHmkFjbhQI3Q/m5XX_2Ohbu0.jpg?size=1405x609&quality=95&sign=0070c157ec0f930e0a1b58b24c0c12aa&type=album", height='400' alt="Корпус">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель ZALMAN T8
+Длина 394.5 мм
+Ширина 200 мм
+Высота 423 мм
+Вес 2.6 кг
+Максимальная длина блока питания 140мм
+Максимальная длина устанавливаемой видеокарты 295 мм
+Максимальная высота процессорного кулера 160 мм
+Вентиляторы в комплекте 1 x 120 мм
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: корпус1 {"position":"1700,725","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/f5804723a2f9d21a/korpus-zalman-p30-v2-p30-white-v2-belyj/" target="_blank">
+  <img src="https://sun9-68.userapi.com/impg/f_UDajpEiGGR4SEZt0FL5EY87AM2WnA0RTQNuA/T0N3fHkPxz0.jpg?size=1556x610&quality=95&sign=3a92efba996e65248bcfa9ee6c17de7a&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Корпус ZALMAN P30 V2 предусматривает окно из закаленного стекла на боковой стенке, через которую будет хорошо видно комплектующие с включенной подсветкой. Модель с типоразмером Mini-Tower совместима с материнскими платами форм-фактора Micro-ATX и Mini-ITX. Устройство поддерживает установку видеокарты длиной до 420 мм и процессорного кулера высотой не более 173 мм. Корпус ZALMAN P30 V2 укомплектован тремя вентиляторами размером 120 мм с ARGB-подсветкой, которая подключается через разъем 3-pin 5V-D-G (ARGB).
+[[back|рекламный]]]
+</div>
+
+
+:: корпус2 {"position":"425,1075","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/331b176a304b3332/korpus-zalman-t8-t8-cernyj/" target="_blank">
+  <img src="https://sun9-70.userapi.com/impg/hvEUHDMWWOKcYgPVYZlday1_t6bHmkFjbhQI3Q/m5XX_2Ohbu0.jpg?size=1405x609&quality=95&sign=0070c157ec0f930e0a1b58b24c0c12aa&type=album", height='400' alt="Корпус">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель ZALMAN T8
+Длина 394.5 мм
+Ширина 200 мм
+Высота 423 мм
+Вес 2.6 кг
+Максимальная длина блока питания 140мм
+Максимальная длина устанавливаемой видеокарты 295 мм
+Максимальная высота процессорного кулера 160 мм
+Вентиляторы в комплекте 1 x 120 мм
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: кулер {"position":"1150,1400","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/e8d7028a68b8ed20/kuler-dla-processora-id-cooling-se-902-sd-v3/" target="_blank">
+  <img src="https://sun9-62.userapi.com/impg/WTraMWge6U0E0D4kNK2y7a2Cl0lu5fyiA-P5Jg/CU1QKE-mMM0.jpg?size=1420x603&quality=95&sign=b00f4340fd2a89d4ff9743db9df5b7b3&type=album", height='400' alt="Кулер">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель ID-COOLING SE-902-SD V3
+Рассеиваемая мощность  95 Вт
+Размеры комплектных вентиляторов 92 x 92 мм
+Максимальная скорость вращения 2000 об/мин
+Высота 120 мм
+Ширина 90 мм
+Длина 70 мм
+Вес 370 г
+[[обратно|самый дешевый]]]
+</div>
+
+
+
+[[обратно|самый дешевый]]
+</div>
+
+
+:: кулер1 {"position":"1750,575","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/83489e2e8e89ed20/kuler-dla-processora-id-cooling-se-206-xt-argb/" target="_blank">
+  <img src="https://sun9-34.userapi.com/impg/amHC3IAD7TG6Q5hga2nxQoKee07pP97Y8AZGNg/80lxqRIHFcY.jpg?size=1514x748&quality=95&sign=9bb66dcac3fb2c102008b8d2c47082b7&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристика
+---
+Кулер для процессора ID-Cooling SE-206-XT ARGB обладает рассеиваемой мощностью 250 Вт и подойдет для процессоров с TDP ниже этого показателя. Модель с поддержкой востребованных сокетов оснащена медным основанием, на которое нанесено никелированное покрытие для защиты от коррозии. Для отвода тепла от горячего чипсета используется алюминиевый радиатор, 6 тепловых трубок диаметром 6 мм и два вентилятора с размерами 120x120 мм. Кулер для процессора ID-Cooling SE-206-XT ARGB оснащен гидродинамическим подшипником, благодаря которому уровень шума при работе не превышает 35.2 дБ.
+
+
+[[back|рекламный]]]
+</div>
+
+
+:: кулер2 {"position":"175,1075","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/e8d7028a68b8ed20/kuler-dla-processora-id-cooling-se-902-sd-v3/" target="_blank">
+  <img src="https://sun9-62.userapi.com/impg/WTraMWge6U0E0D4kNK2y7a2Cl0lu5fyiA-P5Jg/CU1QKE-mMM0.jpg?size=1420x603&quality=95&sign=b00f4340fd2a89d4ff9743db9df5b7b3&type=album", height='400' alt="Кулер">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель ID-COOLING SE-902-SD V3
+Рассеиваемая мощность  95 Вт
+Размеры комплектных вентиляторов 92 x 92 мм
+Максимальная скорость вращения 2000 об/мин
+Высота 120 мм
+Ширина 90 мм
+Длина 70 мм
+Вес 370 г
+[[обратно|рабочий]]]
+</div>
+
+
+
+
+:: материнская плата {"position":"825,1275","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/83c045a16c08d582/materinskaa-plata-msi-pro-h510m-b-ii/" target="_blank">
+  <img src="https://sun9-3.userapi.com/impg/P5G-fWeKOrHcwylGWI0TCBCuZjg-JtdDuBFelw/Er5j-DbImfk.jpg?size=1412x598&quality=95&sign=aac09fb582c7bdc7de8a74a03a4d8451&type=album", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Тип материнская плата
+Модель MSI PRO H510M-B II
+Высота 236 мм
+Ширина 202 мм
+Чипсет Intel Intel H470
+Совместимые ядра процессоров Intel Comet Lake
+Форм-фактор поддерживаемой памяти DIMM
+Количество слотов памяти  2
+Количество каналов памяти  2
+Максимальный объем памяти 64 ГБ
+Максимальная частота памяти (JEDEC / без разгона) 2933 МГц
+Версия PCI Express 3.0
+Слоты PCIe x16 1 x PCIe 3.0 (в режиме x16)
+Поддержка SLI / CrossFire  нет
+Количество карт в SLI / Crossfire 0 шт
+Версия PCI Express накопителей 3.0
+Основной разъем питания 24 pin
+Разъем питания процессора  1 x 8 pin
+Пассивное охлаждение  чипсет
+Активное охлаждение  нет
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: материнская плата1 {"position":"1675,325","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/65cfca3a9578ed20/materinskaa-plata-asus-prime-b760m-a-d4/" target="_blank">
+  <img src="https://sun9-67.userapi.com/impg/_XjodM4E0RSM97G_SMuziT-yA177I4j1DBYtAg/HCgRIuSUG5Y.jpg?size=1534x765&quality=95&sign=274a611e18763c924ebcc065745ed21f&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Материнская плата ASUS PRIME B760M-A D4 предназначена для сборки производительной платформы в офисном и домашнем ПК. Она выполнена в компактном форм-факторе Micro-ATX и подходит для установки в системы с ограниченным пространством. В конфигурацию модели входят 4 слота под установку оперативной памяти DDR4, 3 слота расширения PCI-E x16 для графических карт, 2 разъема M.2 и 4 слота SATA для устройств хранения.
+Плата оборудована сетевым контроллером LAN 2.5 Гбит/с для стабильного соединения с Интернетом. С помощью проводных интерфейсов на боковой стороне можно организовать подключение различных устройств. Есть порты USB 2.0 и USB 3.2, видеовыходы DisplayPort и HDMI, разъемы аудио. Панели из алюминия серебристого цвета отводят тепло от комплектующих и повышают стабильность ASUS PRIME B760M-A.
+[[back|рекламный]]]
+
+
+:: материнская плата2 {"position":"275,950","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/83c045a16c08d582/materinskaa-plata-msi-pro-h510m-b-ii/" target="_blank">
+  <img src="https://sun9-3.userapi.com/impg/P5G-fWeKOrHcwylGWI0TCBCuZjg-JtdDuBFelw/Er5j-DbImfk.jpg?size=1412x598&quality=95&sign=aac09fb582c7bdc7de8a74a03a4d8451&type=album", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Тип материнская плата
+Модель MSI PRO H510M-B II
+Высота 236 мм
+Ширина 202 мм
+Чипсет Intel Intel H470
+Совместимые ядра процессоров Intel Comet Lake
+Форм-фактор поддерживаемой памяти DIMM
+Количество слотов памяти  2
+Количество каналов памяти  2
+Максимальный объем памяти 64 ГБ
+Максимальная частота памяти (JEDEC / без разгона) 2933 МГц
+Версия PCI Express 3.0
+Слоты PCIe x16 1 x PCIe 3.0 (в режиме x16)
+Поддержка SLI / CrossFire  нет
+Количество карт в SLI / Crossfire 0 шт
+Версия PCI Express накопителей 3.0
+Основной разъем питания 24 pin
+Разъем питания процессора  1 x 8 pin
+Пассивное охлаждение  чипсет
+Активное охлаждение  нет
+[[обратно|рабочий]]]
+</div>
+
+
+:: микрофон {"position":"1750,1075","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/d2aec854034ded20/mikrofon-hyperx-quadcast-s-cernyj/" target="_blank">
+  <img src="https://sun9-35.userapi.com/impg/IsgKKsp4rYGNSnEc2VlrWiYJ042F6i4svfv0xQ/aBOAC68QJXM.jpg?size=1604x727&quality=95&sign=31fff37d66a127d3bb906c6b68c6f37e&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Микрофон HyperX QuadCast S порадует обширным набором функций и качественной звукозаписью, обеспеченной встроенным поп-фильтром для минимизации посторонних шумов. Модель с настольным исполнением станет оптимальным выбором для начинающих подкастеров и стримеров, для которых важно достойное аудиосопровождение выпускаемого контента. Благодаря амортизирующему подвесу уровень шума окружающей среды будет минимальным, а чувствительность на уровне -36 дБ и спектр улавливаемых частот 20-20000 Гц гарантируют профессиональное качество записи вашего голоса.
+
+[[back|рекламный]]]
+</div>
+
+
+:: монитоор {"position":"950,625","size":"100,100"}
+<a href="https://www.ozon.ru/product/crystalstorm-19-monitor-cs-pro-dlya-pk-chernyy-matovyy-1754375509/?asb=CqSaDXBkV334%252BduM83Jz6V9jP6pYuqBE1ykwTnQcE54%253D&asb2=5WIHGxdbQKQ0iFf0jlquMO36Iphqk5mI72t403a7ydJjirAwFgVxqFJkZqPp8wdZ6GA5IRiiCjDDAV1Hz2ui7A&avtc=1&avte=4&avts=1735317449&keywords=монитор" target="_blank">
+  <img src="https://sun9-10.userapi.com/impg/-f-kWrkB90-svAZ263lOsEZToAGJuOho-w_BjA/emm565f_InQ.jpg?size=1567x684&quality=95&sign=a6ca78be61f6a338197f01f06385fa15&type=album", height='400' alt="Монитор">
+</a>
+(text-colour:black)[характеристики
+---
+Макс. частота обновления, Гц 75
+Изогнутый экран Нет
+Яркость, кд/м2 250
+Диагональ экрана, дюймы 19
+Разрешение 1440x900 WXGA+
+Потребляемая мощность, 35Вт
+Разъёмы монитора HDMI, VGA (D-SUB)
+Установка монитора На подставку, Крепление на стену
+Стандарт крепления VESA 75x75 мм
+Размеры, 280*465*334mm
+Вес, 3.55кг
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: монитоор1 {"position":"1750,900","size":"100,100"}
+<a href="https://www.ozon.ru/product/crystalstorm-19-monitor-cs-pro-dlya-pk-chernyy-matovyy-1754375509/?asb=CqSaDXBkV334%252BduM83Jz6V9jP6pYuqBE1ykwTnQcE54%253D&asb2=5WIHGxdbQKQ0iFf0jlquMO36Iphqk5mI72t403a7ydJjirAwFgVxqFJkZqPp8wdZ6GA5IRiiCjDDAV1Hz2ui7A&avtc=1&avte=4&avts=1735317449&keywords=монитор" target="_blank">
+  <img src="https://sun9-10.userapi.com/impg/-f-kWrkB90-svAZ263lOsEZToAGJuOho-w_BjA/emm565f_InQ.jpg?size=1567x684&quality=95&sign=a6ca78be61f6a338197f01f06385fa15&type=album", height='400' alt="Монитор">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Макс. частота обновления, Гц 75
+Изогнутый экран Нет
+Яркость, кд/м2 250
+Диагональ экрана, дюймы 19
+Разрешение 1440x900 WXGA+
+Потребляемая мощность, 35Вт
+Разъёмы монитора HDMI, VGA (D-SUB)
+Установка монитора На подставку, Крепление на стену
+Стандарт крепления VESA 75x75 мм
+Размеры, 280*465*334mm
+Вес, 3.55кг
+[[обратно|рекламный]]]
+</div>
+[[back|рекламный]]]
+</div>
+
+
+:: монитоор2 {"position":"1475,1000","size":"100,100"}
+<a href="https://www.ozon.ru/product/crystalstorm-19-monitor-cs-pro-dlya-pk-chernyy-matovyy-1754375509/?asb=CqSaDXBkV334%252BduM83Jz6V9jP6pYuqBE1ykwTnQcE54%253D&asb2=5WIHGxdbQKQ0iFf0jlquMO36Iphqk5mI72t403a7ydJjirAwFgVxqFJkZqPp8wdZ6GA5IRiiCjDDAV1Hz2ui7A&avtc=1&avte=4&avts=1735317449&keywords=монитор" target="_blank">
+  <img src="https://sun9-10.userapi.com/impg/-f-kWrkB90-svAZ263lOsEZToAGJuOho-w_BjA/emm565f_InQ.jpg?size=1567x684&quality=95&sign=a6ca78be61f6a338197f01f06385fa15&type=album", height='400' alt="Монитор">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Макс. частота обновления, Гц 75
+Изогнутый экран Нет
+Яркость, кд/м2 250
+Диагональ экрана, дюймы 19
+Разрешение 1440x900 WXGA+
+Потребляемая мощность, 35Вт
+Разъёмы монитора HDMI, VGA (D-SUB)
+Установка монитора На подставку, Крепление на стену
+Стандарт крепления VESA 75x75 мм
+Размеры, 280*465*334mm
+Вес, 3.55кг
+[[обратно|рекламный]]]
+</div>
+
+
+:: монитор2 {"position":"75,625","size":"100,100"}
+<a href="https://www.ozon.ru/product/crystalstorm-19-monitor-cs-pro-dlya-pk-chernyy-matovyy-1754375509/?asb=CqSaDXBkV334%252BduM83Jz6V9jP6pYuqBE1ykwTnQcE54%253D&asb2=5WIHGxdbQKQ0iFf0jlquMO36Iphqk5mI72t403a7ydJjirAwFgVxqFJkZqPp8wdZ6GA5IRiiCjDDAV1Hz2ui7A&avtc=1&avte=4&avts=1735317449&keywords=монитор" target="_blank">
+  <img src="https://sun9-10.userapi.com/impg/-f-kWrkB90-svAZ263lOsEZToAGJuOho-w_BjA/emm565f_InQ.jpg?size=1567x684&quality=95&sign=a6ca78be61f6a338197f01f06385fa15&type=album", height='400' alt="Монитор">
+</a>
+(text-colour:black)[характеристики
+---
+Макс. частота обновления, Гц 75
+Изогнутый экран Нет
+Яркость, кд/м2 250
+Диагональ экрана, дюймы 19
+Разрешение 1440x900 WXGA+
+Потребляемая мощность, 35Вт
+Разъёмы монитора HDMI, VGA (D-SUB)
+Установка монитора На подставку, Крепление на стену
+Стандарт крепления VESA 75x75 мм
+Размеры, 280*465*334mm
+Вес, 3.55кг
+[[обратно|рабочий]]]
+</div>
+
+
+:: мышка {"position":"550,1100","size":"100,100"}
+<a href="https://www.ozon.ru/product/igrovaya-mysh-s-po-sven-rx-g800-s-rgb-podsvetkoy-provodnaya-opticheskaya-dlya-kompyutera-i-noutbuka-1444534520/?advert=ABsBcDDg3wjc2Kc2f0N2_yGXR_Y0mhr-UfUgPXqmfvThX6bbaDPBFw-5Fds-5DtYUEZ30Uo79N_5MTpyvFQeVCrqiMZaKn-LCOZUHaa8-6FRX2GNDIgAqPkbyn1dgKVB79HVVmyjw8xqqP4Kw39hDVvVdO4Mm1Nxtmmf1ZPeJnFJAkyUZ4XKhmfGvgmq-1bfS1B_5RARGPRaFrDR_dJ5Vk0K7nDW4SmGDJkhFwL3BukwOtkVEnuHpbqiCSOawzUjEEmDPW2RR2Y8NU8_VBeSvMqHH56DUcd2Tmil1eir3peuDwAjurunBhQSNwuwZbxh_8iKAkN4QtsINAhEXbxLRVEDfZGD_Fyrtyke5DUcUG_oGUiCT6clJfUaaJWvB6eNWRsO_kO2eDJeSJ49dM8ocvjRKutX33t2QhD_67RzwxJc4tShY8NBC8ZDmLPtyXbrL78NXAxpnmiJtXIio_rzYvU3zQJyTXKs&avtc=1&avte=4&avts=1735317470&keywords=мышка" target="_blank">
+  <img src="https://sun9-56.userapi.com/impg/ZmbfwJosOGTbmOMuMsvpCa7Ch-tDXHHXEg6Gvw/c7JxDBwhK1Q.jpg?size=1598x628&quality=95&sign=87d1c0d7f4b299b86b267e6f907f9ee3&type=album", height='400' alt="Мышка">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Интерфейс USB
+Длина кабеля, 1.8м
+Количество кнопок 6
+Форма для правшей
+Конструкция мыши Классическая
+Колесо прокрутки Да
+Бесшумное нажатие Нет
+Подсветка Да
+Тип подсветки RGB-подсветка
+Размеры,  125 × 62 × 40мм
+Вес товара, 135г
+Тип соединения проводная
+Макс. разрешение датчика, dpi 7200
+Тип клавиш Физические
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: мышка1 {"position":"1375,875","size":"100,100"}
+<a href="https://www.ozon.ru/product/igrovaya-mysh-s-po-sven-rx-g800-s-rgb-podsvetkoy-provodnaya-opticheskaya-dlya-kompyutera-i-noutbuka-1444534520/?advert=ABsBcDDg3wjc2Kc2f0N2_yGXR_Y0mhr-UfUgPXqmfvThX6bbaDPBFw-5Fds-5DtYUEZ30Uo79N_5MTpyvFQeVCrqiMZaKn-LCOZUHaa8-6FRX2GNDIgAqPkbyn1dgKVB79HVVmyjw8xqqP4Kw39hDVvVdO4Mm1Nxtmmf1ZPeJnFJAkyUZ4XKhmfGvgmq-1bfS1B_5RARGPRaFrDR_dJ5Vk0K7nDW4SmGDJkhFwL3BukwOtkVEnuHpbqiCSOawzUjEEmDPW2RR2Y8NU8_VBeSvMqHH56DUcd2Tmil1eir3peuDwAjurunBhQSNwuwZbxh_8iKAkN4QtsINAhEXbxLRVEDfZGD_Fyrtyke5DUcUG_oGUiCT6clJfUaaJWvB6eNWRsO_kO2eDJeSJ49dM8ocvjRKutX33t2QhD_67RzwxJc4tShY8NBC8ZDmLPtyXbrL78NXAxpnmiJtXIio_rzYvU3zQJyTXKs&avtc=1&avte=4&avts=1735317470&keywords=мышка" target="_blank">
+  <img src="https://sun9-56.userapi.com/impg/ZmbfwJosOGTbmOMuMsvpCa7Ch-tDXHHXEg6Gvw/c7JxDBwhK1Q.jpg?size=1598x628&quality=95&sign=87d1c0d7f4b299b86b267e6f907f9ee3&type=album", height='400' alt="Мышка">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Интерфейс USB
+Длина кабеля, 1.8м
+Количество кнопок 6
+Форма для правшей
+Конструкция мыши Классическая
+Колесо прокрутки Да
+Бесшумное нажатие Нет
+Подсветка Да
+Тип подсветки RGB-подсветка
+Размеры,  125 × 62 × 40мм
+Вес товара, 135г
+Тип соединения проводная
+Макс. разрешение датчика, dpi 7200
+Тип клавиш Физические
+[[back|рекламный]]]
+</div>
+
+
+:: мышка2 {"position":"600,850","size":"100,100"}
+<a href="https://www.ozon.ru/product/igrovaya-mysh-s-po-sven-rx-g800-s-rgb-podsvetkoy-provodnaya-opticheskaya-dlya-kompyutera-i-noutbuka-1444534520/?advert=ABsBcDDg3wjc2Kc2f0N2_yGXR_Y0mhr-UfUgPXqmfvThX6bbaDPBFw-5Fds-5DtYUEZ30Uo79N_5MTpyvFQeVCrqiMZaKn-LCOZUHaa8-6FRX2GNDIgAqPkbyn1dgKVB79HVVmyjw8xqqP4Kw39hDVvVdO4Mm1Nxtmmf1ZPeJnFJAkyUZ4XKhmfGvgmq-1bfS1B_5RARGPRaFrDR_dJ5Vk0K7nDW4SmGDJkhFwL3BukwOtkVEnuHpbqiCSOawzUjEEmDPW2RR2Y8NU8_VBeSvMqHH56DUcd2Tmil1eir3peuDwAjurunBhQSNwuwZbxh_8iKAkN4QtsINAhEXbxLRVEDfZGD_Fyrtyke5DUcUG_oGUiCT6clJfUaaJWvB6eNWRsO_kO2eDJeSJ49dM8ocvjRKutX33t2QhD_67RzwxJc4tShY8NBC8ZDmLPtyXbrL78NXAxpnmiJtXIio_rzYvU3zQJyTXKs&avtc=1&avte=4&avts=1735317470&keywords=мышка" target="_blank">
+  <img src="https://sun9-56.userapi.com/impg/ZmbfwJosOGTbmOMuMsvpCa7Ch-tDXHHXEg6Gvw/c7JxDBwhK1Q.jpg?size=1598x628&quality=95&sign=87d1c0d7f4b299b86b267e6f907f9ee3&type=album", height='400' alt="Мышка">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Интерфейс USB
+Длина кабеля, 1.8м
+Количество кнопок 6
+Форма для правшей
+Конструкция мыши Классическая
+Колесо прокрутки Да
+Бесшумное нажатие Нет
+Подсветка Да
+Тип подсветки RGB-подсветка
+Размеры,  125 × 62 × 40мм
+Вес товара, 135г
+Тип соединения проводная
+Макс. разрешение датчика, dpi 7200
+Тип клавиш Физические
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: наушники {"position":"1700,1200","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/c25260eaf5aded20/besprovodnye-nausniki-logitech-g435-belyj/" target="_blank">
+  <img src="https://sun9-2.userapi.com/impg/D9gIc5fhzawehSy_PQphixt2j6cyVowvmJISiA/e7L3_z_Ja_g.jpg?size=1645x735&quality=95&sign=d1e62bcb30d4b4962500a229acf3ac68&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Радиочастотная гарнитура Logitech G435 LIGHTSPEED создана для игр и прослушивания музыки. Подключение к ПК или другим устройствам осуществляется на основе технологии LIGHTSPEED и интерфейса Bluetooth беспроводным способом. Динамики с диаметром мембраны 50 мм совместно с технологией Dolby Atmos гарантируют формирование чистого и насыщенного звука. Фиксированный микрофон с четкостью передает голос.
+Гарнитура Logitech G435 выполнена в корпусе из переработанного пластика и отличается приятной тканевой отделкой. На чашах предусмотрены кнопки включения/выключения и регулировки громкости. Аккумулятор гарантирует в пределах 18 часов автономной работы, а подзарядка выполняется через порт USB Type-C.
+[[back|рекламный]]]
+</div>
+
+
+:: оперативная память {"position":"625,1250","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/b2eb2c3cc1f63330/operativnaa-pamat-apacer-el16g2vgnh-16-gb/" target="_blank">
+  <img src="https://sun9-46.userapi.com/impg/5RXqxKtDaZDUwAeof_NLj-cbRIKlcdJvwLTm-Q/rA59lVdSJV8.jpg?size=1420x490&quality=95&sign=678ccabccb42e17f4ce8367a735c5e9d&type=album", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель Apacer
+Тип памяти DDR4
+Форм-фактор памяти DIMM
+Суммарный объем памяти всего комплекта 16 ГБ
+Тактовая частота  2666 МГц
+Напряжение питания 1.2 В
+[[обратно|самый дешевый]]]
+</div>
+
+
+
+:: оперативная память1 {"position":"1800,425","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/474c8e7b5907ed20/operativnaa-pamat-adata-xpg-spectrix-d35g-rgb-ax4u360032g18i-swhd35g-32-gb/" target="_blank">
+  <img src="https://sun9-30.userapi.com/impg/X4ADygAVbcFZ5AwA28hLTnSpBdZZ33ow9tEU_g/1zcha1lmiD8.jpg?size=1761x568&quality=95&sign=0666d74a7a84c883d649d6023fe0dc97&type=album.jpg", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+32-гигабайтная оперативная память ADATA XPG SPECTRIX D35G RGB [AX4U360032G18I-SWHD35G] ориентирована на оснащение стационарных компьютеров. Устройство соответствует типу DDR4. Разгонный потенциал памяти реализует технология XMP 2.0. Тайминги модуля – 18-22-22.
+Тактовая частота оперативной памяти ADATA XPG SPECTRIX D35G RGB [AX4U360032G18I-SWHD35G] – 3600 МГц. Пропускная способность устройства достаточна для продуктивной работы с интернет-браузерами, офисными пакетами, редакторами фото и видео, архиваторами и другим типовым программным обеспечением. Модель подходит для сборки и модернизации универсальных офисных и домашних ПК. Совместимость модуля расширяет поддержка частот от 1600 МГц.
+Память использует повышенное до 1.35 В напряжение питания. Рост тепловыделения компенсирует низкопрофильный радиатор. Пассивное охлаждение гарантирует температурную стабильность устройства при любых нагрузках.
+Высота памяти – 36 мм. Рабочий температурный диапазон устройства – от 0 до 85 °C. Особенность внешнего вида памяти – многоцветная подсветка.
+[[back|рекламный]]]
+</div>
+
+
+:: оперативная память2 {"position":"300,525","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/b2eb2c3cc1f63330/operativnaa-pamat-apacer-el16g2vgnh-16-gb/" target="_blank">
+  <img src="https://sun9-46.userapi.com/impg/5RXqxKtDaZDUwAeof_NLj-cbRIKlcdJvwLTm-Q/rA59lVdSJV8.jpg?size=1420x490&quality=95&sign=678ccabccb42e17f4ce8367a735c5e9d&type=album", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель Apacer
+Тип памяти DDR4
+Форм-фактор памяти DIMM
+Суммарный объем памяти всего комплекта 16 ГБ
+Тактовая частота  2666 МГц
+Напряжение питания 1.2 В
+[[обратно|рабочий]]]
+</div>
+
+
+
+:: процессор {"position":"1125,650","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/155c08a2fd8eed20/processor-intel-core-i5-10400f-oem/" target="_blank">
+  <img src="https://sun9-12.userapi.com/impg/EXPOvxAAHTCcbPHV_aQmxetde4pq8HGrEIYtTQ/pu4AldeOExU.jpg?size=1402x626&quality=95&sign=d4902dc09654de6ecd4f81e59fc2809e&type=album", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель Intel Core i5-10400F
+Сокет LGA 1200
+Система охлаждения в комплекте нет
+Термоинтерфейс в комплекте нет
+Общее количество ядер 6
+Количество производительных ядер 6
+Количество энергоэффективных ядер 0
+Максимальное число потоков 12
+Ядро Intel Comet Lake-S
+Базовая частота процессора  2.9 ГГц
+Максимальная частота в турбо режиме  4.3 ГГц
+Базовая частота энергоэффективных ядер 0 ГГц
+Частота в турбо режиме энергоэффективных ядер 0 ГГц
+Свободный множитель  нет
+Тип памяти DDR4
+Максимально поддерживаемый объем памяти 128 ГБ
+Количество каналов 2
+Частота оперативной памяти DDR4-2666
+Тепловыделение (TDP) 65 Вт
+Базовое тепловыделение 65 Вт
+Максимальная температура процессора 100 °C
+[[обратно|самый дешевый]]]
+</div>
+
+
+:: процессор1 {"position":"1475,175","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/0a2114a7fcc9ed20/processor-intel-core-i5-12400f-oem/" target="_blank">
+  <img src="https://sun1-85.userapi.com/impg/aTiuDhCQfIAYTAyZGjP3kPFAjnjqUJBmEtzSrg/FPkE6xERACs.jpg?size=1460x641&quality=95&sign=acbfbb4e1802facb947d43dd66051b3a&type=album.jpg", height='400' alt="Процессор">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель Intel Core i5-12400F
+Система охлаждения в комплекте нет
+Термоинтерфейс в комплекте нет
+Общее количество ядер  6
+Количество производительных ядер  6
+Количество энергоэффективных ядер  0
+Максимальное число потоков 12
+Техпроцесс Intel 7
+Ядро Intel Alder Lake-S
+Базовая частота процессора  2.5 ГГц
+Максимальная частота в турбо режиме  4.4 ГГц
+[[back|рекламный]]]
+</div>
+
+
+:: процессор2 {"position":"100,775","size":"100,100"}
+<a href="https://www.dns-shop.ru/product/155c08a2fd8eed20/processor-intel-core-i5-10400f-oem/" target="_blank">
+  <img src="https://sun9-12.userapi.com/impg/EXPOvxAAHTCcbPHV_aQmxetde4pq8HGrEIYtTQ/pu4AldeOExU.jpg?size=1402x626&quality=95&sign=d4902dc09654de6ecd4f81e59fc2809e&type=album", height='400' alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[характеристики
+---
+Модель Intel Core i5-10400F
+Сокет LGA 1200
+Система охлаждения в комплекте нет
+Термоинтерфейс в комплекте нет
+Общее количество ядер 6
+Количество производительных ядер 6
+Количество энергоэффективных ядер 0
+Максимальное число потоков 12
+Ядро Intel Comet Lake-S
+Базовая частота процессора  2.9 ГГц
+Максимальная частота в турбо режиме  4.3 ГГц
+Базовая частота энергоэффективных ядер 0 ГГц
+Частота в турбо режиме энергоэффективных ядер 0 ГГц
+Свободный множитель  нет
+Тип памяти DDR4
+Максимально поддерживаемый объем памяти 128 ГБ
+Количество каналов 2
+Частота оперативной памяти DDR4-2666
+Тепловыделение (TDP) 65 Вт
+Базовое тепловыделение 65 Вт
+Максимальная температура процессора 100 °C
+[[обратно|рабочий]]]
+</div>
+
+
+:: рабочий {"position":"300,675","size":"100,100"}
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[В этом ответвлении мы разберем и собирем тот компьютер который нужен для сдачи демоэкзамена. Он обошелся в 24.000 рублей как и было в условии все уложено в 600.000 тысяч, он едентичен самому дешевому компьютеру, так как бюджет ограничен.]
+(text-colour:black)[
+[[материнская плата2]]
+[[процессор2]]
+[[оперативная память2]]
+[[блок питания2]]
+[[кулер2]]
+[[Внешняя звуковая карта2]]
+[[корпус2]]
+[[монитор2]]
+[[мышка2]]
+[[клавиатура2]]
+[[soft]]
+[[обратно|собрать по частям]]]
+</div>
+
+
+:: рассмотреть готовый {"position":"625,400","size":"100,100"}
+
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[
+[[заказать готовый]]]
+</div>
+
+
+:: рекламный {"position":"1275,525","size":"100,100"}
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[В этом ответвлении мы разберем рекламный (дорогой) компьютер. Он вышел в 233.000 рублей. можнео сказать это то что стоит у меня дома :)]
+(text-colour:black)[
+[[материнская плата1]]
+[[процессор1]]
+[[оперативная память1]]
+[[блок питания1]]
+[[кулер1]]
+[[жесткий диск1]]
+[[корпус1]]
+[[монитоор1]]
+[[монитоор2]]
+[[мышка1]]
+[[клавиатура1]]
+[[видеокарта1]]
+[[коврик для мышки]]
+[[микрофон]]
+[[наушники]]
+[[софт]]
+[[обратно|собрать по частям]]]
+</div>
+
+
+:: самый дешевый {"position":"1050,775","size":"100,100"}
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[В этом ответвлении мы разберем самый дешевый компьютер, который можно собрать. Он вышел в 24.000 тысяч рублей.]
+(text-colour:black)[
+[[материнская плата]]
+[[процессор]]
+[[оперативная память]]
+[[блок питания]]
+[[кулер]]
+[[Накопитель]]
+[[корпус]]
+[[монитоор]]
+[[мышка]]
+[[клавиатура]]
+[[Видеокарта]]
+[[Внешняя звуковая карта]]
+[[soft]]
+[[обратно|собрать по частям]]]
+</div>
+
+
+:: собрать новый пк {"position":"200,250","size":"100,100"}
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Какая сборка вас интересует?
+[[рассмотреть готовый]]
+[[собрать по частям]]]
+</div>
+
+
+:: собрать по частям {"position":"475,600","size":"100,100"}
+
+
+
+
+
+
+
+<div class="transparent-box">
+[[самый дешевый]]
+[[рекламный]]
+[[рабочий]]
+[[обратно в начало|собрать новый пк]]
+</div>
+
+
+:: софт {"position":"1300,250","size":"100,100"}
+<a href="https://www.microsoft.com/ru-ru/download/windows" target="_blank">
+  <img src="https://sun9-41.userapi.com/impg/AVjQP9iPvyXnZCUqJKFkfWJU_8PMk_rWFVUHhQ/kXOZM8vgg3I.jpg?size=1280x704&quality=95&sign=0ee1381cfe751322d881575a223ab4ce&type=album", height="400" alt="Описание картинки">
+</a>
+<div class="transparent-box">
+(text-colour:black)[Так как это рекламный компьютер то на нем установлена Windows система.
+[[back|рекламный]]]
+</div>
+
+
+:: узнать характеристики текущего пк {"position":"375,0","size":"100,100"}
+
+
+
+:: StoryStylesheet [stylesheet]
+tw-story{
+  background-image:url("https://www.zastavki.com/pictures/originals/20173D-graphics_Multicolored_abstract_thunderclouds_118621_.jpg");
+  background-size:cover;
+}
+
+.transparent-box {
+border: 5px solid rgba(0, 0, 0, 0.5);
+border-radius: 10px;
+padding: 20px;
+background-color: rgba(255, 255, 255, 0.8);
+}
+
+
+<style>
+    .button {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    .button:hover {
+        background-color: #45a049;
+    }
